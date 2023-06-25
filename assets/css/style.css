@@ -822,8 +822,11 @@ section {
 .pricing .featured .buy-btn {
   background: #47b2e4;
   color: #fff;
-}
 
+}
+.contact{
+  margin-top: 10px;
+}
 .pricing .featured .buy-btn:hover {
   background: #23a3df;
 }
